@@ -12,6 +12,7 @@ namespace ConsoleApp2
         {
 
             Console.WriteLine(1111);
+            Console.WriteLine(22222);
         }
     }
 }
